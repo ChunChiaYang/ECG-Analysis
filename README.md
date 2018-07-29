@@ -11,4 +11,4 @@ HRV(heart rate variability) is the physiological phenomenon of variation in the 
 By calculating the PSD (power spectral density) of HRV,we can learn a lot of information about our physiological state.Therefore,I will try to compute it of the ECG dataset and show figures about the analysis result.
 
 ## NBViwer  
-[https://github.com/ChunChiaYang/ECG-Analysis/blob/master/ECG-Analysis.ipynb](https://github.com/ChunChiaYang/ECG-Analysis/blob/master/ECG-Analysis.ipynb)
+[http://nbviewer.jupyter.org/github/ChunChiaYang/ECG-Analysis/blob/master/ECG-Analysis.ipynb](http://nbviewer.jupyter.org/github/ChunChiaYang/ECG-Analysis/blob/master/ECG-Analysis.ipynb)
